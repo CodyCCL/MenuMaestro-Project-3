@@ -1,4 +1,4 @@
-# Chow-Online-Food-Ordering-Project-3
+# Chow-Online-Food-Ordering-Platform
 ## Description
 ```
 Create a MERN-stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand.
